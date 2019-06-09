@@ -1,0 +1,7 @@
+[package]
+name = "example-rust-api"
+version = "0.1.0"
+authors = ["wakuwaku3 <takushi_119@live.jp>"]
+edition = "2018"
+
+[dependencies]
